@@ -16,7 +16,9 @@ Folder Structure:
     
       - Jupyter Notebook 2
 
-NOTE: Donot ZIP/Compress the files
+NOTE: 
+
+      DONOT ZIP/Compress the files
 
       DONOT Clear Outputs when uploading Jupyter Notebooks
 
