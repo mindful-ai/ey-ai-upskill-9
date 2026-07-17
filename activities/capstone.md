@@ -2,7 +2,7 @@
 
 Folder Structure:
 
-*<fname>_<lname>*
+*fname_lname*
 
     - Part 1
     
