@@ -3,14 +3,21 @@
 Folder Structure:
 
 <fname>_<lname>
+
     - Part 1
+    
       - Snapshot 
+      
     - Part 2
+    
       - Jupyter Notebook 1
+      
     - Part 3
+    
       - Jupyter Notebook 2
 
 NOTE: Donot ZIP/Compress the files
+
       DONOT Clear Outputs when uploading Jupyter Notebooks
 
 -----------------------------------------------------------------------------------------------------------
